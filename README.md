@@ -3,7 +3,6 @@
 The Python script is designed to perform accessibility analysis on a given URL.
 print("It uses multiple tools and techniques to identify potential accessibility issues on a web page.
 
-print("\n")
 
 # 2. Function Roles:
 
